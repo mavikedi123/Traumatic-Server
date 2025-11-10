@@ -30,7 +30,7 @@
 	effect_amplifier = 0
 	#Cooldown in minutes before corpse interaction (0-60)
 	#Range: 0 ~ 60
-	corpse_cooldown = 10
+	corpse_cooldown = 0
 	#Thirst effect duration in seconds (0-600)
 	#Range: 0 ~ 600
 	thirst_duration = 0

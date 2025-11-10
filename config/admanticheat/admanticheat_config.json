@@ -15,9 +15,9 @@
 
   // === General Settings ===
   // Server name shown in Discord webhooks
-  "serverName": "ADM Minecraft Server",
+  "serverName": "Traumatic Reborn",
   // Turn the whole anticheat system on/off
-  "anticheatEnabled": false,
+  "anticheatEnabled": true,
   // Show anticheat messages in server console
   "logToConsole": true,
   // Link where players can appeal bans
@@ -35,9 +35,9 @@
   // Check mod IDs only (default: true)
   "enableModIdValidation": true,
   // Check resourcepack IDs only (default: false)
-  "enableResourcePackIdValidation": true,
+  "enableResourcePackIdValidation": false,
   // Mod IDs to always ignore. Don't add comma after last item!
-  "ignoredModIds": [],
+  "ignoredModIds": ["voicechat","voicechat_api","distanthorizons"],
   // Resource pack IDs to always ignore. Don't add comma after last item!
   "ignoredPackIds": [],
   // Player UUIDs to skip ID checks for. Don't add comma after last item!
@@ -73,7 +73,7 @@
   // Kick players for bad packets
   "kickForInvalidPackets": true,
   // Ban players for repeated bad packets
-  "banForInvalidPackets": true,
+  "banForInvalidPackets": false,
   // Use advanced packet checking (recommended)
   "enableAdvancedPacketValidation": true,
   // Check if packets arrive in the right order

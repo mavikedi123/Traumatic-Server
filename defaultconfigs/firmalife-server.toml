@@ -4,19 +4,19 @@
 	usePipesForSprinklers = false
 	#Days in a cellar to make cheese Aged.
 	#Range: > 1
-	cheeseAgedDays = 28
+	cheeseAgedDays = 648
 	#Days in a cellar to make cheese Vintage.
 	#Range: > 1
-	cheeseVintageDays = 112
+	cheeseVintageDays = 2592
 	#Ticks to dry something on a drying mat (24000 ticks = 1 day)
 	#Range: > 1
-	dryingTicks = 12000
+	dryingTicks = 24000
 	#Ticks to dry something on a solar drier (24000 ticks = 1 day)
 	#Range: > 1
-	solarDryingTicks = 1000
+	solarDryingTicks = 2000
 	#Ticks to smoke something on a string (24000 ticks = 1 day)
 	#Range: > 1
-	smokingTicks = 8000
+	smokingTicks = 16000
 	#Number of blocks below the firepit that wool string will search for valid smoking firepits.
 	#Range: > 1
 	smokingFirepitRange = 6
@@ -25,12 +25,12 @@
 	compostTumblerTicks = 96000
 	#Ticks for an oven to cure (24000 ticks = 1 day)
 	#Range: > 1
-	ovenCureTicks = 2000
+	ovenCureTicks = 4000
 	#Minimum temperature for an oven to start the curing process (24000 ticks = 1 day)
 	#Range: > 1
 	ovenCureTemperature = 600
 	#If true, ovens will hurt the player if they touch it without a peel in hand.
-	ovenRequirePeel = false
+	ovenRequirePeel = true
 	#The chance for fuel burning in an oven to drop an ash block into an ashtray.
 	#Range: 0.0 ~ 1.0
 	ovenAshChance = 0.5

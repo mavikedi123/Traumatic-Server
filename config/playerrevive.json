@@ -1,11 +1,11 @@
 {
   "banPlayerAfterDeath": false,
   "bleeding": {
-    "bleedTime": 1200,
+    "bleedTime": 24000,
     "triggerForCreative": true,
     "bleedingMessage": true,
     "bleedingMessageTrackingOnly": true,
-    "shouldGlow": false,
+    "shouldGlow": true,
     "bleedingEffects": [
       {
         "effect": "minecraft:slowness",
@@ -19,7 +19,7 @@
     "initialDamageCooldown": 10,
     "bleedingHealth": 10,
     "disableMobDamage": true,
-    "disablePlayerDamage": false,
+    "disablePlayerDamage": true,
     "disableOtherDamage": false,
     "hasShaderEffect": true,
     "changePermissionLevel": false,
@@ -31,7 +31,7 @@
     "disableServerCommands": false
   },
   "revive": {
-    "requiredReviveProgress": 100.0,
+    "requiredReviveProgress": 45.0,
     "progressPerPlayer": 1.0,
     "exhaustion": 0.5,
     "haltBleedTime": true,

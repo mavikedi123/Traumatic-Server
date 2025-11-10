@@ -7,7 +7,7 @@
 	#Enable monsters spawning on the surface during a blood moon event? Overwrites TFC's config for surface monsters
 	enableBloodmoonSurfaceMonsters = false
 	#Enable sun blindness? Looking at the sun for too long will make you blind for a period
-	enableSunBlindness = false
+	enableSunBlindness = true
 	#Amount of days per real Earth month
 	#Range: 0.0 ~ 1.7976931348623157E308
 	averageDaysPerMonth = 30.436875
