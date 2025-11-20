@@ -37,7 +37,7 @@
   // Check resourcepack IDs only (default: false)
   "enableResourcePackIdValidation": false,
   // Mod IDs to always ignore. Don't add comma after last item!
-  "ignoredModIds": ["voicechat","voicechat_api","distanthorizons"],
+  "ignoredModIds": [ "voicechat", "voicechat_api", "distanthorizons", "controlify" ],
   // Resource pack IDs to always ignore. Don't add comma after last item!
   "ignoredPackIds": [],
   // Player UUIDs to skip ID checks for. Don't add comma after last item!
