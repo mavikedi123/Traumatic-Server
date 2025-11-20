@@ -18,7 +18,7 @@ familiarityDecayLimit = 0.3
 	# If true, TFC will stop time when no players are online on a running server.
 	# This prevents food from decaying, the calendar from advancing, and the sun from moving, etc.
 	# !!Disable at your own risk!!
-	enableTimeStopWhenServerEmpty = true
+	enableTimeStopWhenServerEmpty = false
 	#
 	# Enable fire arrows and fireballs to spread fire and light blocks.
 	enableFireArrowSpreading = true
@@ -133,13 +133,13 @@ familiarityDecayLimit = 0.3
 		#
 		# Number of ticks required for a torch to burn out (1000 = 1 in game hour = 50 seconds), default is 72 hours. Set to -1 to disable torch burnout.
 		#Range: > -1
-		torchTicks = 72000
+		torchTicks = 1536000 
 
 	[blocks.candle]
 		#
 		# Number of ticks required for a candle to burn out (1000 = 1 in game hour = 50 seconds), default is 264 hours. Set to -1 to disable candle burnout.
 		#Range: > -1
-		candleTicks = 264000
+		candleTicks = 5623200
 
 	[blocks.dryingBricks]
 		#
@@ -245,7 +245,7 @@ familiarityDecayLimit = 0.3
 		#
 		# Tank capacity of a lamp (in mB).
 		#Range: 0 ~ 2147483645
-		lampCapacity = 250
+		lampCapacity = 2000
 
 	[blocks.pumpkin]
 		#
@@ -254,7 +254,7 @@ familiarityDecayLimit = 0.3
 		#
 		# Number of ticks required for a jack 'o lantern to burn out (1000 = 1 in game hour = 50 seconds), default is 108 hours. Set to -1 to disable burnout.
 		#Range: > -1
-		jackOLanternTicks = 108000
+		jackOLanternTicks = 2536000
 
 	[blocks.bloomery]
 		#
@@ -304,7 +304,7 @@ familiarityDecayLimit = 0.3
 		enableThatchBedSpawnSetting = true
 		#
 		# If true, the player can sleep the night in a thatch bed
-		enableThatchBedSleeping = false
+		enableThatchBedSleeping = true
 		#
 		# If true, the player cannot sleep in thatch beds during thunderstorms.
 		thatchBedNoSleepInThunderstorms = true
@@ -369,11 +369,11 @@ familiarityDecayLimit = 0.3
 		#
 		# Modifier applied to the growth time of every (non-fruit) sapling. The modifier multiplies the ticks it takes to grow, so larger values cause longer growth times. For example, a value of 2 doubles the growth time.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		globalSaplingGrowthModifier = 1.0
+		globalSaplingGrowthModifier = 5.0
 		#
 		# Modifier applied to the growth time of every fruit tree sapling. The modifier multiplies the ticks it takes to grow, so larger values cause longer growth times. For example, a value of 2 doubles the growth time.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		globalFruitSaplingGrowthModifier = 1.0
+		globalFruitSaplingGrowthModifier = 5.0
 		#
 		# Days for a acacia tree sapling to be ready to grow into a full tree.
 		#Range: > 0
@@ -495,11 +495,11 @@ familiarityDecayLimit = 0.3
 		#
 		# Modifier applied to the growth time of every crop. The modifier multiplies the ticks it takes to grow, so larger values cause longer growth times. For example, a value of 2 doubles the growth time.
 		#Range: 0.001 ~ 1000.0
-		cropGrowthModifier = 1.0
+		cropGrowthModifier = 2.0
 		#
 		# Modifier applied to the expiry time of every crop. The modifier multiplies the ticks it takes to grow, so larger values cause longer expiry times. For example, a value of 2 doubles the expiry time.
 		#Range: 0.001 ~ 1000.0
-		cropExpiryModifier = 1.0
+		cropExpiryModifier = 2.0
 
 	[blocks.dispenser]
 		#
@@ -739,18 +739,18 @@ familiarityDecayLimit = 0.3
 		nutritionRotationHungerWindow = 80
 		#
 		# If player's nutrition should be kept even after death. Hunger and thirst are not affected and will be reset.
-		keepNutritionAfterDeath = true
+		keepNutritionAfterDeath = false
 		#
 		# How many hours should different foods ignore when trying to stack together automatically?
 		# Food made with different creation dates doesn't stack by default, unless it's within a specific window. This is the number of hours that different foods will try and stack together at the loss of a little extra expiry time.
 		#Range: 1 ~ 100
-		foodDecayStackWindow = 6
+		foodDecayStackWindow = 30
 		#
 		# A multiplier for food decay, or expiration times. Larger values will result in naturally shorter expiration times.
 		# Setting this to zero will cause decay not to apply.
 		# Note that if you set this to zero **food items will lose their creation dates!!**. This is not reversible!
 		#Range: 0.0 ~ 1000.0
-		foodDecayModifier = 0.25
+		foodDecayModifier = 0.10
 		#
 		# Enables negative effects from carrying too many very heavy items, including potion effects.
 		enableOverburdening = true
