@@ -6,11 +6,11 @@
 [System Info]
   OS:   Windows 10                              
   CPU:  AMD Ryzen 5 5600 6-Core Processor       
-  RAM:  Max: 4.29 GB, Total: 4.29 GB, Free: 1.38 GB
+  RAM:  Max: 7.18 GB, Total: 6.01 GB, Free: 1.44 GB
   GPU:  AMD Radeon RX 7800 XT                   
   Anticheat Version: 1.9.3
-  Last Updated:   1762471701899
-  Integrity Hash: dd93af5285746fc2a4e1b9f89fbd8513a8c3360ae9d5f56b244c9f50443a6cd0
+  Last Updated:   1763935287184
+  Integrity Hash: d08063d4b5a71fd8a8523f2640326797f8bd2088e8ec7360ebf81061f2b3086d
 
 ------------------------------------------------------------
 [Mod IDs]
@@ -26,14 +26,15 @@
   - ae2insertexportcard            @ 1.20.1-1.3.0    [329dff2184edc476e7261b073f17239015636543a22c16df1161fafe547d6b1c] {file}
   - ae2netanalyser                 @ 1.20-1.0.6-forge [9c10ab288402b6a01815d58029298fc56dd482f045511ad35104b17e9b6c4393] {file}
   - ae2wtlib                       @ 15.3.1-forge    [9ccc961107b75c1a7b48484873468974aeca57142272f873c4b59138b585f068] {file}
-  - afc                            @ 1.0.19-1.20.1   [97afb84a142e6d09dc57fa0814b543109e2d30ec9de23f70dc4989e585882332] {file}
+  - afc                            @ 1.0.20-1.20.1   [24ae9e6ad12c5d4e62601efe75b7a139beff8d857d0d0fe39912be26c7539e9e] {file}
   - ags_modernmarkings             @ 0.4.3-1.20.1    [688c863fa6613ac759b8b79f8c2936a23457643c3389f9f13f1cb4ca2573ceb8] {file}
   - aiimprovements                 @ 0.5.2           [575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a] {file}
   - alekiroofs                     @ 1.0.1-1.20.1    [] {nofile}
   - alekiships                     @ 1.0.14          [cc77374010d9e951219a05a904062f1a3bf411dc58275ab06543984aa0048254] {file}
-  - alltheleaks                    @ 1.0.8+1.20.1-forge [828b0593730b7599d6283a3994bf008906b4d2ec8f7b17c2135837c0bda55990] {file}
+  - alltheleaks                    @ 1.1.0+1.20.1-forge [84d04bc2140acedb301cac5f4166063bb6292cd91f11241aa98d0e144513cbd7] {file}
   - almanac                        @ 1.0.2           [b8e0b42329c11739201d132bc99720e8205badc4ce862b30e4eec04b833e3419] {file}
   - ambientsounds                  @ 6.1.11          [5ad6423578f482606eadb1a1a74cd86d74f2c11ac544d8a9a977fc58c8334b25] {file}
+  - applied_ammo_box               @ 0.4.0           [194c97ae0d5578064fd5cb05057811b691bfa9a101122a92be1236357baf238b] {file}
   - architectury                   @ 9.2.14          [218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af] {file}
   - astikorcarts                   @ 1.1.8           [6a83acd902d354535d0aba43a77aefcb80e3ec9fb27d6d0de035c44a77ec1fe1] {file}
   - attributefix                   @ 21.0.4          [5d8cc8928ce480288d5b504663bb13104df56ac72ce5bf36f2743ec27c701112] {file}
@@ -70,10 +71,10 @@
   - craftingtweaks                 @ 18.2.6          [b612e3ae2152504085f7d1ac96a39db64e9e80b61e10f376ca11e2bb9c17ae5f] {file}
   - craftpresence                  @ 2.7.0           [ac6e1d0e966dfe423006c43dfcd6cc440ef4f6fe6cb3b24a9506193c8bf0f684] {file}
   - crashexploitfixer              @ 1.1.0           [04cc21a3e6b4c69bc07d4805ef0ba40897c1aa738781f87edf6c721c15adfc05] {file}
-  - create                         @ 6.0.6           [6cb1e5b25e7d5fb670ef0713ca6da17525a1b9658e2a523fd76c2a32bbc0b2ed] {file}
-  - create_connected               @ 1.1.7-mc1.20.1  [0c511a206709c465bdb5471eaf72f70925c71a4f0b797d9f9ace84ae8f0b6f01] {file}
-  - create_factory_abstractions    @ 1.4.6           [] {nofile}
-  - create_factory_logistics       @ 1.4.6           [271f7241629a0fba7b378069521d118c4695dcb6793dce20515b2a2dba51b6ca] {file}
+  - create                         @ 6.0.8           [6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0] {file}
+  - create_connected               @ 1.1.9-mc1.20.1  [4b7a0dee70a836eb3c6aa599404e0d4b99ae98b89f71ca32d256b1ccba84a71a] {file}
+  - create_factory_abstractions    @ 1.4.7           [] {nofile}
+  - create_factory_logistics       @ 1.4.7           [f425d697818ebc4a9b208cc5b1cdf4cb8846f26c9519a55dd114d3af96b2c730] {file}
   - create_hypertube               @ 0.2.6-hotfix    [afefb2fd506531f6e9f59f2c7dd722db57b27e2b4f336ebdd252cdb572592d5f] {file}
   - createaddition                 @ 1.20.1-1.3.2    [944a617e3cf9d0d4965c7816050e3f317a52d74e7563d5325ccebece2cbc3eaa] {file}
   - createdeco                     @ 2.0.3-1.20.1-forge [7d6dd0094d18d6bab64fcd7de680ea736015d1a1ffc472d3fe03122bc7aa0864] {file}
@@ -81,22 +82,21 @@
   - createliquidfuel               @ 2.1.1-1.20.1    [235779aff4e5ad5114702036b467dec846f2c4cb8d547757d397c528efa93233] {file}
   - createpickywheels              @ 1.20.1-6.0.6-2  [467a86d115bcb063a94f0865489ebd5fd8eff05561fe1f80aa4089989a8ec21d] {file}
   - creativecore                   @ 2.12.32         [3d2271f7d9d2e32fca46d19f3b6ab4372d30e0ea3eb26c809c23366e8d503e16] {file}
-  - cucumber                       @ 7.0.15          [64b5750fd9896aa8e70d5a8970f21f5f977223649404a9420d0d5238121c2fc5] {file}
+  - cucumber                       @ 7.0.16          [b586a3cd1de362c365f923e5c325273916822f4b3a792c0d9ff6747d7deb2be6] {file}
   - curios                         @ 5.14.1+1.20.1   [1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f] {file}
-  - deafission                     @ 1.20.1-0.13.2   [1cd3711f37c9717466d35087ecba272e799bee839b629640fc016475dfcab1cd] {file}
+  - deafission                     @ 1.20.1-0.14.0   [3da01b649637a0bd94153e0dea84fe22609a6d22c1c08035da3bf69c88ee3e17] {file}
   - decay_2012                     @ 2.0.1           [f9a374b99c2954dae08e33cc1b3195c1def169e7adc1de8fa11d1a364405c801] {file}
   - defaultoptions                 @ 18.0.4          [88b89d7734a4f5d99e9464fc368428a72e5052c3570865a954cf74ef98a2581b] {file}
   - diggerhelmet                   @ 1.0.0.25        [ad3a653d20ca1eefc8eab9ceb05e12f13b118ecb49b68c3a03ca0d1c4f0e306f] {file}
-  - disablechat                    @ 1.0.0           [104e3588251278364e2b150f6b330834964a768f3ecc4e9818bfdacd7c54f1e4] {file}
   - do_a_barrel_roll               @ 3.5.6+1.20.1    [71ffc54d3f1fbe9497cf7b398c79a2724c60f7b06809941e9ded0888587347af] {file}
-  - domum_ornamentum               @ 1.20.1-1.0.291-snapshot [b8b95c1c2b8a3a871cdef56e4ec9231a57341864f730c9f1bacb5c8be4589bd2] {file}
+  - domum_ornamentum               @ 1.20.1-1.0.292-snapshot [e5ef09525606ebc1f78360fec2b6e290d3bc362338e1cf487c6ff530754c659e] {file}
   - drippyloadingscreen            @ 3.0.12          [cf60e933cbf075c286f60ee259b2ed26da053d1fef1f4e23d88adb0bb558bde5] {file}
   - dsbg                           @ 1.0-1.20.1      [4a3ae0f780f68cfe776e82c99252238f277164e5a29772153f9bfe0af2bc3a2e] {file}
   - embeddium                      @ 0.3.31+mc1.20.1 [eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb] {file}
   - emi                            @ 1.1.22+1.20.1+forge [877a2831c44ab7a0e1f8da0df92125b42f93c6f9b9e4dd1ceb566d8adc67950a] {file}
   - endermanoverhaul               @ 1.0.4           [18f9f0bf3a9b4f77ad6913c28ccb927cde24f5d19524152cfe79ebb3dcccacc5] {file}
   - enhancedvisuals                @ 1.8.2           [2590c1a56b1a6c8236d460d637da5fdddf4e2c6a0bc70b9a78c762f3e75e428b] {file}
-  - entityculling                  @ 1.9.2           [4f2ecbb77d97d67b0fe64b31c7949369ede380f5726ec0546b1d34ba48895a16] {file}
+  - entityculling                  @ 1.9.3           [c0160d378f5f00da72e7235a62caa615a5274a2346541101311b24442366ab71] {file}
   - esc                            @ 1.3             [] {nofile}
   - etched                         @ 3.0.4           [18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69] {file}
   - everycomp                      @ 1.20-2.9.9      [84713ac48c621e7e76b9cfd01e7b680b356e9704511738b6261b66245e357f07] {file}
@@ -111,12 +111,11 @@
   - ferritecore                    @ 6.0.1           [9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54] {file}
   - firmaciv                       @ 1.0.9           [2f63f800e9d9501565c04752b6a03066bde850376d50768c5fb33910360d65da] {file}
   - firmacivplus                   @ 1.0.1-1.20.1    [6fcd6350dd2da622a01b99a3a8fbc8d7d1e82196433aa6f024c55dca461959d7] {file}
-  - firmalife                      @ 2.1.23          [ffd282f04ee2ed527531a3ded6b18ad19fa4d5a8ea45bd7a55bfedad792ce40e] {file}
+  - firmalife                      @ 2.1.24          [80482921db5fd116c565f7ab7adb8aae57416d45611959704efc38a76bab652b] {file}
   - flickerfix                     @ 4.0.1           [6f154f6bd798cdf5a9f3f90c743b396b2162308c69d9713af22091a18a4746b6] {file}
-  - flywheel                       @ 1.0.4           [] {nofile}
+  - flywheel                       @ 1.0.5           [] {nofile}
   - fpsreducer                     @ 1.20.1-2.5.1    [997f034210e0fca20fa5a0e6ddd370c5444854fc97e69910161104160cea41ce] {file}
   - framedblocks                   @ 9.4.2           [497d66d71952adf5851b5e14d2df636b5933df8c0ab8799c33db1d9cfb82e66d] {file}
-  - framework                      @ 0.7.15          [0c29b9bab2ca7209a6cc8d80b2cd06daa4be2da81b636f7292cebebfaaea6c08] {file}
   - ftbbackups2                    @ 1.0.23          [19cea280a56e533b9669d4f866aef38ebe54f6d8627efe6798016e17b6b4afda] {file}
   - ftbessentials                  @ 2001.2.3        [dcbec178981988fc67e8838e8eba948325988221941daa6e5dd65441974b39f0] {file}
   - ftbfiltersystem                @ 20.0.1          [fcb7b312a010986a868a6645e4e395b2635383a2387297c7c134aa4250959e24] {file}
@@ -127,11 +126,11 @@
   - ftbxmodcompat                  @ 2.1.3           [16a8eb9de88d5c33d29cb076cc39dfb337b2c54348e1ef1efe9dd60cf85e5f72] {file}
   - fullstackwatchdog              @ 1.0.1+1.19.2-forge [0c845a2812e374edeb6085844294098bb7f774fef4d19fc88c334eadf7b73aa4] {file}
   - fzzy_config                    @ 0.7.3+1.20.1+forge [cc0db1514435953677dea20c246b2f86a61b5ff4348143aa8e1154a2808c6191] {file}
-  - geckolib                       @ 4.8.2           [a2e4bcc986ce360f4e85d545a86b04c8c9350543ebd17069b6a44c0a8939ffdc] {file}
+  - geckolib                       @ 4.7             [34c87687f80d6bc098a9a63fb1dc94c288554c8d7e4903143d8ff1742a4b6261] {file}
   - glodium                        @ 1.20-1.5-forge  [fc419cb5bf511750c0a2da498b925f5122ac4f78617aca6630fe80abf0b6f460] {file}
   - goprone                        @ 3.1.1           [66550554393e689878bd1dac6eb61cc795439f649c37934a6e1c90ba0f19d6bc] {file}
   - grapplemod                     @ 1.20.1-v13      [94a81aba078312639d2cbddcf2382cbc98f1c7e0d07c464f26eeb7006ee64930] {file}
-  - greate                         @ 0.0.52          [4c5013e20ff84aeb0d6f98ac64601f9163eafef965e1155c4a2d26fe331d7ea8] {file}
+  - greate                         @ 0.0.54          [f8add067e136f1c5a0e0b3867c2cdc31f03ea1af767f66b9bc76952d8b6cb573] {file}
   - gtceu                          @ 7.2.1           [fc0a615f449ca435b37a723204919c2b86268c0b4e9a89db6f7e6432fef1d93c] {file}
   - guideme                        @ 20.1.14         [a0ba5a0288dab6e413f1456de8dd162f9479146ee681569837f6d6b17930a0e2] {file}
   - hangglider                     @ 8.0.1           [82298214aa3f7225a0ac0ed93eb2cff8283758af211029cc00a7819a0fed6a7c] {file}
@@ -168,10 +167,10 @@
   - megacells                      @ 2.4.6-1.20.1    [19f59cc793950a3fa80dc1b29ef3bdad587344cd5efe25c5e010f4db1ea4a79c] {file}
   - melody                         @ 1.0.2           [933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8] {file}
   - merequester                    @ 1.20.1-1.1.5    [119c23431ff06b1ebe57606daff460b7c74f74c8564a26f1cbac4cd3521968cd] {file}
-  - messenger_crow                 @ 1.3.2           [1ac520f5dc10c2d7cb644f780ec97da5916d71b40413ed032c8f1e989c896df5] {file}
   - mixinsquared                   @ 0.3.6-beta.1    [] {nofile}
-  - modernfix                      @ 5.24.4+mc1.20.1 [98d77cb29c718934b1d5d465d3725a0de4284bf3c8033d6553a7dd3b15956fe4] {file}
-  - moonlight                      @ 1.20-2.16.15    [97fbf25762183b969198f288957f74cb10f59d546ad81631626bdba1c08f88c0] {file}
+  - modernfix                      @ 5.25.1+mc1.20.1 [59c6fc3df68a8016c564baeef258e0e1ae2f9056463c82d25acd1823a6a48e08] {file}
+  - moldraw                        @ 2.0.3           [96c8442d1b33093fa22c914a716c07990ab14d126fd96406ee850371b35ce471] {file}
+  - moonlight                      @ 1.20-2.16.16    [6a6eedadf09f1133c44db37fa5eb5ee37aaa9c40df9fbe6ea36bc5123415b4f7] {file}
   - morered                        @ 4.0.0.4         [a5baa00780254a9982276a99dceea035c62d384f07926e3138cb3934f1b808a0] {file}
   - moreredxcctcompat              @ 1.20.1-1.0.0    [293f2a1c911f300c31081da9210c53a43d30475322d83d8287a266040a9e4cde] {file}
   - mousetweaks                    @ 2.25.1          [6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08] {file}
@@ -192,13 +191,14 @@
   - placebo                        @ 8.6.3           [1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571] {file}
   - playerrevive                   @ 2.0.31          [beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb] {file}
   - polylib                        @ 2000.0.3-build.143 [abf42a3240b083fc96b9c022a049323cd4130844fcef338e1ab8b2cd6502a04b] {file}
-  - ponder                         @ 1.0.80          [] {nofile}
+  - ponder                         @ 1.0.91          [] {nofile}
   - primitive_creatures            @ 2.0.1           [48e76c3b5a6c7f04a25e1687b852b8f6cc7e9859036affb4a7ee01020306a075] {file}
+  - proximitychat                  @ 1.2.0           [257b3ac6f08bc48ddce5e3079d62c5d0de18fb680f3dc7153a83a8d4c412a1da] {file}
   - punishment_for_death           @ 1.0.0.15        [04e95dc89067424e1094c8451711f634c1f304c183713a9bd562c96785e6e5d5] {file}
   - puzzlesaccessapi               @ 20.1.1          [] {nofile}
   - puzzleslib                     @ 8.1.33          [f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f] {file}
   - radium                         @ 0.12.4+git.26c9d8e [b42584e2672d6b5329959ec2b0f342395b19389fed0ee4d86ea71072f42f77a0] {file}
-  - railways                       @ 1.6.13-alpha+forge-mc1.20.1 [d8c01cc9b9d8dd57238fe539b567f34e2ab134a8ad8dfc8e9fb30f9cb25322cd] {file}
+  - railways                       @ 1.6.14-beta+forge-mc1.20.1 [f28e8544357a70ec709815aee0a5cfa7aefc496a7e3a3b4b7acebbb2d207a2e4] {file}
   - resourcefulconfig              @ 2.1.3           [c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded] {file}
   - resourcefullib                 @ 2.1.29          [b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8] {file}
   - rhino                          @ 2001.2.3-build.10 [fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6] {file}
@@ -208,9 +208,10 @@
   - satin                          @ 1.20.1+1.15.0-SNAPSHOT [] {nofile}
   - saturn                         @ 0.1.3           [7e6dcc7c2b0db19ec2f965fac91a49e13dcc611f2d86f6bb56d7d68da901aaf8] {file}
   - searchables                    @ 1.0.3           [c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576] {file}
-  - shouldersurfing                @ 1.20.1-4.14.3   [12939e47f7994681b049abdde8efed414d9467cd47a199ff0f87b890f3ceadb6] {file}
+  - shouldersurfing                @ 1.20.1-4.15.0   [fed05648ba7250c77aa2d38a5cffd26a8d1fda584a8d865be6b2e815d227230a] {file}
   - showcaseitem                   @ 1.20.1-1.2      [17dd8bbd0efc1170f94a1e4c3e395f49ba0a5c921e8f682f1912607a01f5e649] {file}
-  - siegemachines                  @ 1.32            [0b3edd6287d23a32e488b27cac287b6381d1d2ff50b9ede964dd3992735a1d2c] {file}
+  - siegemachines                  @ 1.33            [1c94bb700715ee1bd3f267c5295bc2f3c4db9c9cca7a8af997031d3a88e884ee] {file}
+  - simplelogin                    @ 1.0.1           [1e923563c4d85793ef59849114c0a7c51ba1e1446e1976eeedb58acb81f52b44] {file}
   - simplylight                    @ 1.20.1-1.4.6-build.50 [893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10] {file}
   - simplystacked                  @ 1.20-1.0        [966d43c7755f91e9ab66d16d6bb8b49eed8a74466555622c5c8eb0dcdbae0caf] {file}
   - smoothboot                     @ 0.0.4           [5a0d2682493ffa7b140a7b81f0d1e70c7536c97969397cf9e718e31391b5b9d5] {file}
@@ -229,7 +230,7 @@
   - tacz                           @ 1.1.6-hotfix    [f9b4bb27cecff72750e6ef6e72a1ae579006f7dd1d5ac213c9b228fb4c8747fb] {file}
   - taczammoquery                  @ 1.20.1-1.0.0    [4fbc312eeaa6cd4d5dc38628f1fe9e0548308cc1795370639dba43351f5c5e09] {file}
   - taczjs                         @ 1.3.6-mc1.20.1  [e6fb5953f6fb68bf6156df6d77939df8b57cfff017c6f396fdea9b07e23acc37] {file}
-  - tacztweaks                     @ 2.9.0           [fcf0328947e8bc16f73b965d4cf09d351220b6221cfdad3fc2afe7032e3c7339] {file}
+  - tacztweaks                     @ 2.10.0          [4e778ec4e8e17f0dc2f49dfb5369a52a446735345c4ac690c5b25b8cb6458536] {file}
   - tfc                            @ 3.2.19          [1c134b1083142df4d63883759bbfc7a8d75e7e7df5419df42a10dae96e41a1f9] {file}
   - tfc_atlas                      @ 1.0.0           [4ac1067e63382906a309e0826f44535ff1fc8cfefcdcec61109e0fe4f9ad16cb] {file}
   - tfc_support_indicator          @ 1.0.3+mc1.20.1  [aeb7d377560a0b201717ab1725fff3a50741c2b1e7fc85307d891aa1719776e2] {file}
@@ -249,18 +250,19 @@
   - tfcstructuremodc               @ 0.0.1           [f64607c55e0df86b7eddc9e9e2ef2a9eef9b609201f5c9f49bb686a0276e92a5] {file}
   - tfcvesseltooltip               @ 1.1             [4ef600b4ae58460721d7f0440a69fe4c2a595ed25cec26a534f19b73e2bd7053] {file}
   - tfcweldbutton                  @ 1.1             [31a9e14d08844370d5d2a9ef6f744307f7177a632dc5b7261fca00cc0ef91ccb] {file}
-  - tfg                            @ 0.8.5           [b301897b1944bc9568f20ef915e91c9148b2401c50bfdd4ce66c23932e48979d] {file}
+  - tfg                            @ 0.8.6           [4af7460f290ba1b2e4e1e8e39a1f4ce7d591cdd6150e600dfbe6208964ac834f] {file}
+  - timeout_fixes                  @ 1.20.1-1.0.0    [6c925a6b252f742b686619c8bfd1bf00ff72fc0c435c2a403cbe28a611ec271f] {file}
   - toofast                        @ 0.4.3.5         [5dc0fc5687c43ad9cec522ebb6eda9d9c84edc5b0c401721e91450b1ef57de5a] {file}
   - toolbelt                       @ 1.20.02         [717cad5de08223433f9f5ae467cf731288e69564eb7c4c19bcc2b49bc9191c3c] {file}
   - toomanyrecipeviewers           @ 0.6.4+mc.20.1   [34446833d60f42b045323b300a4f9b849a4652ae5569df448208cdf5d3e4f017] {file}
   - tp_shooting                    @ 1.20.1-5.1.1+tacz1.1.6 [04e8a9bae99e54a972e91b8a1e5f3366e4020ec7fb762d9c8aafbf23ed29b8b1] {file}
-  - transition                     @ 1.0.7           [] {nofile}
+  - transition                     @ 1.0.8           [] {nofile}
   - trender                        @ 1.0.8           [] {nofile}
   - tumbleweed                     @ 0.5.5           [db37a99504d7d506d01504cde1502b5eb93ab835d9455cdb665603ba3fbd5da4] {file}
   - unilib                         @ 1.2.0           [b1b4f08020982320597e6810aa68b237982ef1005a28c5919e826116486682b6] {file}
   - useitemonblockevent            @ 1.0.0.2         [] {nofile}
   - uteamcore                      @ 5.1.4.382       [ff502986f27f47409b3bd1c02cbbeeacf9d035069c47b2560fc81bafca8a2c35] {file}
-  - vintageimprovements            @ 1.20.1-0.3.5.1  [fc777fed48bc4ff9141c4e2230dfe1565fe07de8f3c7bbb80cc7fecc141c97a3] {file}
+  - vintageimprovements            @ 1.20.1-0.3.6.0  [f585a5b645ad5d22a95793b38cd150dcda87140a2c8ce637dd467ace5c7c7121] {file}
   - voicechat                      @ 1.20.1-2.6.6    [8b4d9af0836842f18b6643d7cd13a225f498bf504b91b10fbcefd1d62f2cc845] {file}
   - voicechat_api                  @ 2.6.0           [8b4d9af0836842f18b6643d7cd13a225f498bf504b91b10fbcefd1d62f2cc845] {file}
   - wan_ancient_beasts             @ 1.3.2           [509e6843f533386848f54d37e84bd2ab1ddabe98dcb3bf8dfe6dc5fd1f95c97a] {file}
@@ -279,6 +281,5 @@
   - ComputerCraft Greg Refreshed 1.1 - 1.20.1.zip [0fad834485e0ac199ff0b5028c6f319c50e2216db2f1f09e382e22c92564a7ad]
   - Improved AE 2 1.20.1 ver 0.03 - 32x32.zip [7e8582e2d80984a396b91adcb464db7fa8c2b9142462fbf202b9e21ffbb9414e]
   - Perfected Anvil Helper.zip               [b2ddfb2eaae19874594032a451212fbe8ca36562f178ff34ee79c71ea1da5a5b]
-  - Perfected+Anvil+Helper.zip               [f47042ddb168b9b6627fe36c7f6c281b8852757a34210a2ed682644abd6ef542]
   - TerraFirmaCraft_New_Animals.zip          [01ee61826183de6256f320dd9e7452e952123fe56caee695c20473b52e84487a]
 ============================================================
