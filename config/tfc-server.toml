@@ -497,7 +497,7 @@ familiarityDecayLimit = 0.3
 		#Range: 0.001 ~ 1000.0
 		cropGrowthModifier = 2.0
 		#
-		# Modifier applied to the expiry time of every crop. The modifier multiplies the ticks it takes to grow, so larger values cause longer expiry times. For example, a value of 2 doubles the expiry time.
+		# Modifier applied to the d time of every crop. The modifier multiplies the ticks it takes to grow, so larger values cause longer expiry times. For example, a value of 2 doubles the expiry time.
 		#Range: 0.001 ~ 1000.0
 		cropExpiryModifier = 2.0
 
@@ -750,7 +750,7 @@ familiarityDecayLimit = 0.3
 		# Setting this to zero will cause decay not to apply.
 		# Note that if you set this to zero **food items will lose their creation dates!!**. This is not reversible!
 		#Range: 0.0 ~ 1000.0
-		foodDecayModifier = 0.10
+		foodDecayModifier = 0.15
 		#
 		# Enables negative effects from carrying too many very heavy items, including potion effects.
 		enableOverburdening = true
