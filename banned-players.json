@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "2696906f-3fdd-3d6c-99af-62d6d9d77e79",
+    "name": "_ukion_",
+    "created": "2025-12-14 10:44:26 +0000",
+    "source": "DeathBan",
+    "expires": "2025-12-14 13:44:26 +0000",
+    "reason": "You drowned"
+  },
+  {
+    "uuid": "f7858a4e-ba24-3fb7-97a3-474d562c39c7",
+    "name": "superemma17",
+    "created": "2025-12-14 10:14:48 +0000",
+    "source": "DeathBan",
+    "expires": "2025-12-14 13:14:48 +0000",
+    "reason": "You were shot by GamaraxX"
+  },
+  {
+    "uuid": "49ea6f5a-94f9-382f-820f-aecc44e9d4b1",
+    "name": "ShawdyHQ",
+    "created": "2025-12-14 11:14:24 +0000",
+    "source": "DeathBan",
+    "expires": "2025-12-14 14:14:24 +0000",
+    "reason": "You were killed by magic"
+  }
+]
