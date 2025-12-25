@@ -6,13 +6,13 @@ function registerPrimitiveCreaturesLoots(event) {
 	// kaolin klayze
 	event.addEntityLootModifier('primitive_creatures:tfc')
 		.removeLoot(ItemFilter.ALWAYS_TRUE)
-		.addWeightedLoot([12,16], ['tfc:kaolin_clay', 'minecraft:clay_ball'])
+		.addWeightedLoot([12,16], ['minecraft:clay_ball'])
 		.addLoot('tfc:plant/blood_lily')
 
 	// graphite glayze
 	event.addEntityLootModifier('primitive_creatures:golem_2')
 		.removeLoot(ItemFilter.ALWAYS_TRUE)
-		.addWeightedLoot([2,4], ['gtceu:rich_raw_graphite'])
+		
 
 
 	const CLOTHING_DROP_RATE = 0.1

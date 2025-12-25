@@ -11,8 +11,8 @@
     "sign": 0,
     "rarity": 120,
     "density": 0.35,
-    "min_y": 0,
-    "max_y": 128,
+    "min_y": 1000,
+    "max_y": 1001,
     "random_name": "nether_graphite",
     "blocks": [
       {
