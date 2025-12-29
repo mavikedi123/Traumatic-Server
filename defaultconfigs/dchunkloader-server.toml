@@ -1,0 +1,10 @@
+
+[chunkloader]
+	#Block used as chunkloader
+	activationBlock = "minecraft:iron_block"
+	#Item used to activate the chunkloader
+	activationItem = "minecraft:stick"
+	#Max days after removing a player chunk loaders
+	#Range: 2 ~ 100
+	maxLoadersPerPlayer = 1
+
